@@ -1,0 +1,15 @@
+{
+  "name": "theme-switcher-module",
+  "version": "1.0.4",
+  "description": "theme-switcher-element package for testing",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "build-esm",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "build-esm": "^4.2.2"
+  }
+}
